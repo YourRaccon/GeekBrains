@@ -1,0 +1,6 @@
+C:\Users\tkorbun\source\repos\DZ2\DZ7\bin\Debug\DZ7.exe.config
+C:\Users\tkorbun\source\repos\DZ2\DZ7\bin\Debug\DZ7.exe
+C:\Users\tkorbun\source\repos\DZ2\DZ7\bin\Debug\DZ7.pdb
+C:\Users\tkorbun\source\repos\DZ2\DZ7\obj\Debug\DZ7.csproj.CoreCompileInputs.cache
+C:\Users\tkorbun\source\repos\DZ2\DZ7\obj\Debug\DZ7.exe
+C:\Users\tkorbun\source\repos\DZ2\DZ7\obj\Debug\DZ7.pdb
