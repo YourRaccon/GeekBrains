@@ -1,0 +1,7 @@
+C:\Users\tkorbun\source\repos\DZ5\DZ3\bin\Debug\DZ3.exe.config
+C:\Users\tkorbun\source\repos\DZ5\DZ3\bin\Debug\DZ3.exe
+C:\Users\tkorbun\source\repos\DZ5\DZ3\bin\Debug\DZ3.pdb
+C:\Users\tkorbun\source\repos\DZ5\DZ3\obj\Debug\DZ3.csprojAssemblyReference.cache
+C:\Users\tkorbun\source\repos\DZ5\DZ3\obj\Debug\DZ3.csproj.CoreCompileInputs.cache
+C:\Users\tkorbun\source\repos\DZ5\DZ3\obj\Debug\DZ3.exe
+C:\Users\tkorbun\source\repos\DZ5\DZ3\obj\Debug\DZ3.pdb
