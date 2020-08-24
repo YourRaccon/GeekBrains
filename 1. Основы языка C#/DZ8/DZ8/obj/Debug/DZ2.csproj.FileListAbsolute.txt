@@ -1,0 +1,10 @@
+C:\Users\tkorbun\source\repos\DZ8\DZ8\bin\Debug\DZ8.exe.config
+C:\Users\tkorbun\source\repos\DZ8\DZ8\bin\Debug\DZ8.exe
+C:\Users\tkorbun\source\repos\DZ8\DZ8\bin\Debug\DZ8.pdb
+C:\Users\tkorbun\source\repos\DZ8\DZ8\obj\Debug\DZ2.csprojAssemblyReference.cache
+C:\Users\tkorbun\source\repos\DZ8\DZ8\obj\Debug\DZ8.Form1.resources
+C:\Users\tkorbun\source\repos\DZ8\DZ8\obj\Debug\DZ8.Properties.Resources.resources
+C:\Users\tkorbun\source\repos\DZ8\DZ8\obj\Debug\DZ2.csproj.GenerateResource.cache
+C:\Users\tkorbun\source\repos\DZ8\DZ8\obj\Debug\DZ2.csproj.CoreCompileInputs.cache
+C:\Users\tkorbun\source\repos\DZ8\DZ8\obj\Debug\DZ8.exe
+C:\Users\tkorbun\source\repos\DZ8\DZ8\obj\Debug\DZ8.pdb

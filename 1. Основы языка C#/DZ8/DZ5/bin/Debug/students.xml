@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <lastName>Ткачев</lastName>
+    <firstName>Сергей</firstName>
+    <university>СПбГУАП</university>
+    <faculty>Информационных систем и защиты информации</faculty>
+    <course>6</course>
+    <department>Безопасности информационных систем</department>
+    <group>5711</group>
+    <city>Санкт-Петербург</city>
+    <age>23</age>
+  </Student>
+  <Student>
+    <lastName>Пупкин</lastName>
+    <firstName>Василий</firstName>
+    <university>СПбГУ</university>
+    <faculty>Литературных гениев</faculty>
+    <course>1</course>
+    <department>Любителей почитать</department>
+    <group>1901</group>
+    <city>Санкт-Петербург</city>
+    <age>18</age>
+  </Student>
+  <Student>
+    <lastName>Николаев</lastName>
+    <firstName>Артемий</firstName>
+    <university>СПбГУКА</university>
+    <faculty>Ридиотехники и радиосистем</faculty>
+    <course>2</course>
+    <department>Радиотехники</department>
+    <group>1823</group>
+    <city>Санкт-Петербург</city>
+    <age>19</age>
+  </Student>
+  <Student>
+    <lastName>Сергеев</lastName>
+    <firstName>Николай</firstName>
+    <university>СПбГАСУ</university>
+    <faculty>Строительства</faculty>
+    <course>3</course>
+    <department>Гражданского строительства</department>
+    <group>1758</group>
+    <city>Санкт-Петербург</city>
+    <age>20</age>
+  </Student>
+  <Student>
+    <lastName>Захаров</lastName>
+    <firstName>Артём</firstName>
+    <university>СПбПУ</university>
+    <faculty>Техничекий</faculty>
+    <course>3</course>
+    <department>Прекрасная</department>
+    <group>1764</group>
+    <city>Санкт-Петербург</city>
+    <age>21</age>
+  </Student>
+  <Student>
+    <lastName>Долина</lastName>
+    <firstName>Лариса</firstName>
+    <university>ИТБИД</university>
+    <faculty>Коммуникативного дизайна</faculty>
+    <course>1</course>
+    <department>Кафедра искусств</department>
+    <group>1905</group>
+    <city>Санкт-Петербург</city>
+    <age>18</age>
+  </Student>
+  <Student>
+    <lastName>Салий</lastName>
+    <firstName>Алиса</firstName>
+    <university>СПХФУ</university>
+    <faculty>Промышленных технологий лекарств</faculty>
+    <course>5</course>
+    <department>Промышленной технологии лекарственных препаратов</department>
+    <group>3956</group>
+    <city>Санкт-Петербург</city>
+    <age>22</age>
+  </Student>
+  <Student>
+    <lastName>Прекрасная</lastName>
+    <firstName>Василиса</firstName>
+    <university>МГУ</university>
+    <faculty>Красоты и здоровья</faculty>
+    <course>6</course>
+    <department>Принцесс</department>
+    <group>1337</group>
+    <city>Москва</city>
+    <age>15</age>
+  </Student>
+  <Student>
+    <lastName>Важный</lastName>
+    <firstName>Роман</firstName>
+    <university>МФТИ</university>
+    <faculty>Важности физики</faculty>
+    <course>5</course>
+    <department>Физико-математическая</department>
+    <group>3645</group>
+    <city>Москва</city>
+    <age>18</age>
+  </Student>
+  <Student>
+    <lastName>Игродельский</lastName>
+    <firstName>Владимир</firstName>
+    <university>МАИ</university>
+    <faculty>Авиации</faculty>
+    <course>5</course>
+    <department>Авиационного строения</department>
+    <group>8800</group>
+    <city>Москва</city>
+    <age>19</age>
+  </Student>
+  <Student>
+    <lastName>Петрович</lastName>
+    <firstName>Святостав</firstName>
+    <university>ГАИ</university>
+    <faculty>Полиции</faculty>
+    <course>1</course>
+    <department>Автополиции</department>
+    <group>2280</group>
+    <city>Краснодар</city>
+    <age>19</age>
+  </Student>
+  <Student>
+    <lastName>Младший</lastName>
+    <firstName>Игорь</firstName>
+    <university>ТРУИ</university>
+    <faculty>Тварищества</faculty>
+    <course>2</course>
+    <department>Помощи</department>
+    <group>6475</group>
+    <city>Сочи</city>
+    <age>20</age>
+  </Student>
+</ArrayOfStudent>
